@@ -6,6 +6,16 @@ Simplify your function input destructuring
 
 `npm i @lcf.vs/io
 
+## <a name="api">API</a>
+
+```js
+/**
+* @param {Function} fn - the function to call
+* @param {*} input - the function input (duplicated and sent as array)
+* @param {...*} args - the extra arguments
+*/
+io(fn, input, ...args)
+```
 ## <a name="usage">Usage</a>
 
 ### <a name="basic">Basic</a>
