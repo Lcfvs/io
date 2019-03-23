@@ -15,7 +15,6 @@ import io from '@lcf.vs/io'
 
 function defineC([{a, b}, input], c) {
   input.c = c
-  input.d = a + b + c
 }
 
 function defineD([{a, b, c}, input]) {
