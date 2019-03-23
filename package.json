@@ -1,0 +1,23 @@
+{
+  "name": "@lcf.vs/io",
+  "version": "1.0.0",
+  "description": "Simplify your function input destructuring",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lcfvs/io.git"
+  },
+  "keywords": [
+    "functioon",
+    "input",
+    "destructuring"
+  ],
+  "author": "lcf.vs <michael.rouges@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lcfvs/io/issues"
+  },
+  "homepage": "https://github.com/Lcfvs/io#readme"
+}
